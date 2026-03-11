@@ -2,10 +2,7 @@ Hello, world! This is the git repository for Introductory Computational Physics,
 
 Introduce yourself!
 
-<<<<<<< main
+Landra Ballard
 Tyler Strazzinski
-=======
 Hello! My name is Cole.
->>>>>>> main
-
 Jeremy Lusk
